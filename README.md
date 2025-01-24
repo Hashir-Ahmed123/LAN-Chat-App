@@ -7,10 +7,10 @@ cd chat-app
 npm init -y
 npm install express socket.io
 # Create Files and Folder 
-touch server.js
-mkdir public
-touch public/index.html
-touch public/style.css
-touch public/script.js
+touch server.js,
+mkdir public,
+touch public/index.html,
+touch public/style.css,
+touch public/script.js,
 # Run the App
 node server.js
